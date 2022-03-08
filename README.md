@@ -1,4 +1,4 @@
-# aks-gitops-extension
+# aks-maintenance-windows
 
 This repository contains Bicep modules to deploy an basic Azure Kubernetes Service with the following specific update settings and enabled maintenance windows:
 
